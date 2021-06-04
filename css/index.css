@@ -76,7 +76,6 @@ header{
     margin: 1%;
 }
 nav{
-    
     display: flex;
     justify-content: center;
     align-items:flex-end;
@@ -228,8 +227,9 @@ nav{
     padding-right: 0;
 }
 /* Ricks bottom-about Styles */
-.bottom-content h2{
-    padding-top: 2%;
+.bottom-about {
+    padding: 2%;
+    margin:3% 0;
 }
 
 /* prewritten styles cont... */
