@@ -50,7 +50,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Explain why git is valuable to a team of developers.
 
-**Answer:** Give a team version control, efficiency, provides safe environment to prevent or at least reduce bugs getting into live code, it lets team members keep working offline via branched work flow, and among many other things it's great for delegation of duties since a good site has separation of concerns. They say it has created a faster "release cycle" as it integrates so well with things like an "agile" management or workflow system. 
+**Answer:** Give a team version control, efficiency, provides safe environment to prevent or at least reduce bugs getting into live code via the checks/balance in pull requests, it lets team members keep working offline via branched work flow, and among many other things it's great for delegation of duties since a good site has separation of concerns. They say it has created a faster "release cycle" as it integrates so well with things like an "agile" management or workflow system. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
