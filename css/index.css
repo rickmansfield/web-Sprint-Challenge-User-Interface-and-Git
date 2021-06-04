@@ -49,11 +49,11 @@ table {
 
 * {
     box-sizing: border-box;
-    padding:0;
+    /* padding:0;
     margin: 0;
     max-width: 100%;
     border: 1px solid grey;
-    border-style: dashed;
+    border-style: dashed; */
 }
 
 html, body {
@@ -122,14 +122,33 @@ nav{
     padding-bottom: 20px;  
 }
 /* Rick's About Page additional Styles */
+.about-info{
+    border-bottom: 1px;
+    border-color: black;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    border-style: dashed;
+    margin-bottom: 2%;
+}
+.about-info p{
+    margin-bottom: 2%;
+}
 .top-content h2{
     margin: 2% 0;
 }
 .top-content p{
-    margin: 2% 0;
+    margin: 4% 0;
+    padding: 2% 0;;
 }
 .top-content a{
-    border-radius: 20%;
+    border-radius: 15%;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    padding: 2% 4%;
+    font-size: 15px;
+    /* margin: 5% 0; */
 }
 
 /* Prewritten styles continue below */
